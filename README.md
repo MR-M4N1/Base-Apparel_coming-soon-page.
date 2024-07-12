@@ -11,8 +11,6 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 -------------------------------------
@@ -28,7 +26,7 @@
 ### Links
 
 - Solution URL: [GIT_URL](https://github.com/MR-M4N1/Base-Apparel_coming-soon-page.)
-- Live Site URL: [GIT_LIV]()
+- Live Site URL: [GIT_LIV](https://mr-m4n1.github.io/Base-Apparel_coming-soon-page./)
 
 
 ### Built with

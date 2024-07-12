@@ -147,8 +147,8 @@ body {
     .Header {
         background-image: url(./images/hero-desktop.jpg);
         margin: 0;
-        width: 610px;
-        height: 749px;
+        width: 630px;
+        height: 760px;
     }
 
     .Top_Picture {
@@ -209,6 +209,7 @@ body {
     .attribution{
         left: 20%;
         right: 60%;
-        bottom: calc(580px - 10px);
+        bottom: normal;
+        top: 10px;
     }
 }

@@ -27,7 +27,7 @@
 
 ### Links
 
-- Solution URL: [GIT_URL]()
+- Solution URL: [GIT_URL](https://github.com/MR-M4N1/Base-Apparel_coming-soon-page.)
 - Live Site URL: [GIT_LIV]()
 
 
